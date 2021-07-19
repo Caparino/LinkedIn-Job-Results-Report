@@ -12,3 +12,5 @@ Things you'll need:
     Chrome Webdriver
     Selenium Package
     Pandas Package
+
+There's some NLP I've done by scraping the job descriptions as well, but we'll save that for another time!
